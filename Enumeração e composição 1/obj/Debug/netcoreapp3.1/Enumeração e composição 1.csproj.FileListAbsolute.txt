@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.exe
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.deps.json
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.runtimeconfig.json
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.dll
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\bin\Debug\netcoreapp3.1\Enumeração e composição 1.pdb
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.dll
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.pdb
+C:\Users\ddieg\Desktop\MeusProjetos\Enumeração e composição 1\Enumeração e composição 1\obj\Debug\netcoreapp3.1\Enumeração e composição 1.genruntimeconfig.cache
